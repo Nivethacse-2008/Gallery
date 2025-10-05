@@ -69,6 +69,8 @@ Publish the website in the given URL.
 # OUTPUT:
 <img width="1366" height="720" alt="Screenshot 2025-10-05 125003" src="https://github.com/user-attachments/assets/244d467a-d44b-4dda-984a-850fceddf403" />
 <img width="1366" height="709" alt="Screenshot 2025-10-05 125018" src="https://github.com/user-attachments/assets/e8492843-7a9e-47f0-848f-ca4da35f896a" />
+<img width="1361" height="693" alt="Screenshot 2025-10-05 125745" src="https://github.com/user-attachments/assets/f0e7c379-19f2-407a-9873-683deddbe7b5" />
+
 
 
 
